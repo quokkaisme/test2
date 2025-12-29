@@ -1,0 +1,8 @@
+{
+  "name": "Copy of C9 Entertainment - The Future of Artistry",
+  "description": "A high-end, luxury landing page for C9 Entertainment featuring futuristic 3D elements and AI-driven artist discovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
